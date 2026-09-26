@@ -120,7 +120,7 @@ public final class Diagrams {
     private static void entityRelationshipDiagram() {
         DiagramCanvas c = new DiagramCanvas(1120, 1240);
         c.heading("Entity Relationship Diagram");
-        c.subheading("Medical Store Management System  ·  Chen notation  ·  "
+        c.subheading("Medical Store Management System  \u00b7  Chen notation  \u00b7  "
                 + "an underlined attribute is the primary key");
         c.shift(0, -60);
 
